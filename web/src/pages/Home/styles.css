@@ -1,8 +1,10 @@
 #page-home {
   height: 100vh;
-  background: url('../../assets/home-background.svg') no-repeat 730px;
-  background-position-x: 470px;
-  background-position-y: 100px;
+  /* background: url('../../assets/home-background.svg') no-repeat 730px; */
+  background: url('../../assets/home-background.svg') no-repeat right center; 
+  background-position-x: 80%;
+  background-position-y: 100%;
+  background-size: 50%;  
 }
 
 #page-home .content {
